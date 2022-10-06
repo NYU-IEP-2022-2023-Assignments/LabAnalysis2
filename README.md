@@ -1,6 +1,6 @@
 # Lab Analysis 2 - Period of a Pendulum, Automated Edition
 
-To accept this assignment: 
+To accept this assignment: https://classroom.github.com/a/KozpytJB
 
 
 This read me is adapted from [Jeremey Manning's Psych 32 Assignment Hello, World!](github.com/ContextLab/psyc32-hello-world/)
